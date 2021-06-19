@@ -1,4 +1,4 @@
-# kisansevak
+# Prediction-of-top-crops-in-INDIA
 
 <h2>Description</h2>
   <p>Predict the top 3 crops that can be grown in India based on the input parameters like state, district and season.</p>
