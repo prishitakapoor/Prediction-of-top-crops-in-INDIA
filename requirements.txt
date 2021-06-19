@@ -1,0 +1,5 @@
+Numpy==1.14.5
+Flask==1.0.2
+Scikit-Multilearn
+Scipy
+Sklearn
