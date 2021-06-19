@@ -4,10 +4,7 @@
   <p>Predict the top 3 crops that can be grown in India based on the input parameters like state, district and season.</p>
   <p>This file has a Flask web app which functions like an api. The input parameters can be given through a call to the local host link</p>
   <p>The output can be obtained as a JSON response</p>
-  
-<h2>Requirements</h2>
-  <p>The requirements are mentioned in detail in the requirements.txt file</p>
-  
+
 <h2>ML model details</h2>
   <p>
     This problem uses a multi-class classification approach. The model is a label powerset model imported from Scikit-Learn. 
